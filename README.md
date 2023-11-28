@@ -1,5 +1,5 @@
-# moviesnow
-# Project Name
+# MoviesNow
+# MoviesNow
 
 Short description or tagline for your project.
 
